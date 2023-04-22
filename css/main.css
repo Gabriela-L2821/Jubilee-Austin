@@ -1,0 +1,285 @@
+/****** Global Styles ******/
+body {
+    color: #5E5D5E;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+
+}
+/****** Header Styles ******/
+
+.homepage-hero {
+    background :url('../img/full-background.png'), #F9EFEF;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    
+
+}
+
+header h1 {
+    float: left;
+    width: 300px;
+    font-size: 30px;
+    font-family: Lora, serif;
+    color: #7B7E54;
+    padding: 65px 0 65px 25px;
+    
+    
+}
+
+header nav {
+    width: 800px;
+    float: right;
+    padding: 75px 25px 75px 0;
+    text-align: right;
+
+    
+    
+}
+
+ nav ul li {
+    display: inline-block;
+    
+}
+
+nav ul li a {
+    color: #727172;
+    padding-left: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+header h2 {
+    width: 1000px;
+    clear: both;
+    font-size: 72px;
+    font-family: Lora, serif;
+    line-height: 80px;
+    color: #817F80;
+    padding: 20px 0 20px 25px;
+}
+
+
+/****** About Styles ******/
+#about .content-wrapper {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+#about h2 {
+    font-size: 36px;
+    font-family: Lora, serif ;
+    padding-left: 50px;
+}
+
+#about p {
+    
+    width: 500px;
+    padding-right: 50px;
+    padding-left: 50px;
+    line-height: 40px;
+    font-size: 20px;
+    float: left;
+}
+
+
+
+/****** Skill Styles ******/
+
+#skills {
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+#skills h3 {
+    margin: 30px 0 20px 0;
+    font-size: 24px;
+    line-height: 36px;
+
+}
+
+#skills .content-wrapper {
+    padding: 115px 0;
+
+}
+
+#skills .skill-list {
+    float: left;
+    width: 300px;
+    padding: 0 50px;
+
+}
+
+#skills h2 {
+    font-family: Lora, serif ;
+    font-size: 36px;
+    padding-bottom: 40px;
+
+}
+
+#skills p {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+/****** Contact Styles ******/
+
+#contact {
+    background-color: #F9E9E9;
+
+}
+
+#contact .contact-image {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+#contact .contact-image {
+
+    float: left;
+    width: 600px;
+}
+
+#contact #contact-img {
+    
+    width: 500px;
+    height: 350px;
+    border: white solid 10px;
+    margin: 0 50px;
+    box-sizing: border-box;
+}
+
+
+#contact .contact-info {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    padding-left: 100px;
+    box-sizing: border-box;
+    width: 600px;
+    float: left;
+}
+
+#contact h2 {
+    font-family: Lora, serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 30px 0;
+}
+
+#contact h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.contact-info #email-header {
+    margin-bottom: 5px;
+    color: #5E5D5E;
+    font-size:  24px;
+    line-height: 36px;
+
+}
+
+#contact #socialmedia-header{
+    margin: 20px 0 15px 0;
+}
+
+
+#contact #email-icon {
+    padding-right: 10px;
+
+
+}
+
+#contact ul{
+    margin-top: 0;
+    padding-left: 0;
+}
+
+#contact ul li {
+    display: inline-block;
+    
+    
+}
+
+#contact ul img {
+    padding-right: 40px;
+}
+
+/****** Projects Page Styles ******/
+
+
+
+
+/****** Projects Page Header Styles ******/
+
+.project-heading {
+    background-color:#F9EFEF ;
+}
+
+
+/****** Projects Page Projects Styles ******/
+#projectlinks {
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+#projectlinks h3 {
+    margin: 30px 0 20px 0;
+    font-size: 24px;
+    line-height: 36px;
+
+}
+
+#projectlinks .content-wrapper {
+    padding: 115px 0;
+    
+
+}
+
+#projectlinks .websiteimages {
+    float: left;
+    width: 300px;
+    height: auto;
+    padding: 0 50px 30px 50px;
+    
+
+}
+
+#projectlinks h2 {
+    font-family: Lora, serif ;
+    font-size: 36px;
+    padding-bottom: 40px;
+
+}
+
+#projectlinks p {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: left;
+}
+
+#projectlinks img {
+    width: 300px;
+    height: auto;
+    
+}
+
+
+
